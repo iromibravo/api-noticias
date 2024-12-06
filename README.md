@@ -1,4 +1,4 @@
-# API de Noticias
+# API de Noticias / Soporte TI-Generation
 
 Este proyecto utiliza la API de NewsAPI para obtener noticias relacionadas con tecnología.
 
